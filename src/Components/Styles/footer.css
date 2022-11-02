@@ -1,0 +1,37 @@
+.footer{
+    width:auto;
+    height:15vw;
+    background-color:#E4E4E4;
+}
+.logo-1{
+    width:8vw;
+
+}
+.foot-nav{
+    display:block;
+    margin:1vw;
+    float:left;
+    text-decoration: none;
+    color:#0a0a0a;
+    font-weight: 600;
+    font-size: 1vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.f-copy-text{
+    float:right;
+    margin-right: 5vw;;
+    font-size: 0.9vw;;
+    color: #808080;
+}
+.foot-nav-1{
+    width:auto;
+    height:10vw;
+    background-color: rgba(0, 0, 0, 0.84);
+    border-radius: 0vw 0vw 1vw 1vw;
+}
+.f-s-icon{
+    width:1.5vw;
+    position:relative;
+    bottom:2vw;
+    margin-left: 0.5vw;
+}
